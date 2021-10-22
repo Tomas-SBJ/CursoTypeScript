@@ -5,5 +5,9 @@ function mostrarMensagem(texto: string): boolean {
     return true;
 }
 
-mostrarMensagem("Salve");
 console.log(mostrarMensagem("Salve"));
+
+const show = (codigo: number): number => {
+
+    return codigo;
+}

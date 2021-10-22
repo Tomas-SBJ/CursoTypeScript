@@ -3,6 +3,8 @@ function mostrarMensagem(texto) {
     console.log(texto);
     return true;
 }
-mostrarMensagem("Salve");
 console.log(mostrarMensagem("Salve"));
+const show = (codigo) => {
+    return codigo;
+};
 //# sourceMappingURL=funcoes.js.map
